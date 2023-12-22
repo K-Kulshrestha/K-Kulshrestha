@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="left">I am in my third year pursuing Computer Science at the University of Texas at Dallas</h3>
 
 <p>🔭 I’m currently working on my own <a href="https://k-kulshrestha.github.io/">website</a></p>
-<p>🌱 I’m currently learning **AWS, Data Structures and Algorithms, Backend**</p>
+<p>🌱 I’m currently learning <b>AWS and Data Structures and Algorithms</b></p>
 <p>💬 Ask me about <b>creating new experiences</b></p>
 <p>📫 Send me an <a href="mailto:kshitijkuls6@gmail.com">email</a></p>
 <p>📄 Know about my experiences by checking my <a href="https://drive.google.com/file/d/1dWo6b_6fzdQ14J4lohCMoJWUPzNAQtLK/view?usp=sharing">resume</a></p>
