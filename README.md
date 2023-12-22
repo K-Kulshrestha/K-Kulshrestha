@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, I'm Kshitij Kulshrestha 👋</h1>
-<h3 align="center">I am in my third year pursuing Computer Science at University of Texas at Dallas</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kulshrestha&label=Profile%20views&color=0e75b6&style=flat" alt="k-kulshrestha" /> </p>
+<h3 align="center">I am in my third year pursuing Computer Science at the University of Texas at Dallas</h3>
 
 - 🔭 I’m currently working on [my own website](https://k-kulshrestha.github.io/)
 - 🌱 I’m currently learning **AWS, Data Structures and Algorithms, Backend**
@@ -27,7 +26,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/kshitijkulshrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kshitijkulshrestha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kshitijkulshrestha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kshitijkulshrestha" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
