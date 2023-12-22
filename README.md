@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>🌱 I’m currently learning **AWS, Data Structures and Algorithms, Backend**</p>
 <p>💬 Ask me about **UI/UX**</p>
 <p>📫 How to reach me **kshitijkuls6@gmail.com**</p>
-<p>📄 Know about my experiences [https://drive.google.com/file/d/1dWo6b_6fzdQ14J4lohCMoJWUPzNAQtLK/view?usp=sharing](https://drive.google.com/file/d/1dWo6b_6fzdQ14J4lohCMoJWUPzNAQtLK/view?usp=sharing)</p>
+<p>📄 Know about my experiences by checking my [resume](https://drive.google.com/file/d/1dWo6b_6fzdQ14J4lohCMoJWUPzNAQtLK/view?usp=sharing)</p>
 
 <p>⚡ Fun fact **I am working on getting a 6 pack**</p>
 
