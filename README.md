@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 <h1 align="left">Hi, I'm Kshitij Kulshrestha 👋</h1>
 <h3 align="left">I am in my third year pursuing Computer Science at the University of Texas at Dallas</h3>
 
-🔭 I’m currently working on [my own website](https://k-kulshrestha.github.io/)
-🌱 I’m currently learning **AWS, Data Structures and Algorithms, Backend**
-💬 Ask me about **UI/UX**
-📫 How to reach me **kshitijkuls6@gmail.com**
-📄 Know about my experiences [https://drive.google.com/file/d/1dWo6b_6fzdQ14J4lohCMoJWUPzNAQtLK/view?usp=sharing](https://drive.google.com/file/d/1dWo6b_6fzdQ14J4lohCMoJWUPzNAQtLK/view?usp=sharing)
+<p>🔭 I’m currently working on [my own website](https://k-kulshrestha.github.io/)</p>
+<p>🌱 I’m currently learning **AWS, Data Structures and Algorithms, Backend**</p>
+<p>💬 Ask me about **UI/UX**</p>
+<p>📫 How to reach me **kshitijkuls6@gmail.com**</p>
+<p>📄 Know about my experiences [https://drive.google.com/file/d/1dWo6b_6fzdQ14J4lohCMoJWUPzNAQtLK/view?usp=sharing](https://drive.google.com/file/d/1dWo6b_6fzdQ14J4lohCMoJWUPzNAQtLK/view?usp=sharing)</p>
 
-⚡ Fun fact **I am working on getting a 6 pack**
+<p>⚡ Fun fact **I am working on getting a 6 pack**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
