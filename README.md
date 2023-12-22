@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Kshitij Kulshrestha 👋</h1>
-<h3 align="center">I am in my third year pursuing Computer Science at the University of Texas at Dallas</h3>
+<h1 align="left">Hi, I'm Kshitij Kulshrestha 👋</h1>
+<h3 align="left">I am in my third year pursuing Computer Science at the University of Texas at Dallas</h3>
 
 - 🔭 I’m currently working on [my own website](https://k-kulshrestha.github.io/)
 - 🌱 I’m currently learning **AWS, Data Structures and Algorithms, Backend**
