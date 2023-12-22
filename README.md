@@ -13,21 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Kshitij Kulshrestha</h1>
+<h1 align="center">Hi, I'm Kshitij Kulshrestha 👋</h1>
 <h3 align="center">I am in my third year pursuing Computer Science at University of Texas at Dallas</h3>
-<h3 align="center">A passionate full stack developer from Dallas, Texas</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-kulshrestha&label=Profile%20views&color=0e75b6&style=flat" alt="k-kulshrestha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k-kulshrestha" alt="k-kulshrestha" /></a> </p>
-
 - 🔭 I’m currently working on [my own website](https://k-kulshrestha.github.io/)
-
 - 🌱 I’m currently learning **AWS, Data Structures and Algorithms, Backend**
-
 - 💬 Ask me about **UI/UX**
-
 - 📫 How to reach me **kshitijkuls6@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dWo6b_6fzdQ14J4lohCMoJWUPzNAQtLK/view?usp=sharing](https://drive.google.com/file/d/1dWo6b_6fzdQ14J4lohCMoJWUPzNAQtLK/view?usp=sharing)
 
 - ⚡ Fun fact **I am working on getting a 6 pack**
