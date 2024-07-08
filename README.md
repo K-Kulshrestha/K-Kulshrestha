@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-kulshrestha&" alt="k-kulshrestha" /></p>
 <h1 align="left">Hi, I'm Kshitij Kulshrestha 👋</h1>
 <h3 align="left">I am in my third year pursuing Computer Science at the University of Texas at Dallas</h3>
 
