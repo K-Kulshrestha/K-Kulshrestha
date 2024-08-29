@@ -48,4 +48,4 @@ echo "2. Full-stack development with modern tools and frameworks."
 echo "3. UX/UI design principles and user-centered development."
 
 # Feel free to reach out if you want to collaborate or discuss any of these topics!
-</details> ```
+</details> 
