@@ -8,7 +8,7 @@
 <details>
 <summary>💻 Open Console</summary>
 
-# Welcome to Kshitij's GitHub profile!
+# Welcome to my GitHub profile!
 
 # I am currently:
 echo "Working on various projects including web applications and AI integration."
