@@ -5,7 +5,6 @@
     my website <3
   </a>
 </div>
----
 
 <p align="center"> <img src="https://images7.alphacoders.com/133/1330715.png" alt="coding" width="820" height="280" /> </p>
 
