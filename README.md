@@ -8,9 +8,8 @@
 
 ---
 
-## 💻 **Skills**
-
 <div align="center">
+  <h2 style="font-size: 2.2em;">💻 Skills</h1>
   <table style="width: 80%; margin: auto; border-collapse: collapse; font-size: 1.2em;">
     <tr>
       <td align="center" style="padding: 10px; font-weight: bold; color: #722F37;">Frontend</td>
@@ -31,9 +30,8 @@
   </table>
 </div>
 
-## 🎨 **Personal Interests**
-
 <div align="center" style="font-size: 1.1em;">
+  <h2 style="font-size: 2.2em;">🎨 Personal Interests</h1>
   <p>🍳 Experimenting with new recipes and sharing meals 🍳</p>
   <p>🎵 Relaxing through music 🎵</p>
   <p>🏋️‍♂️ Staying active and healthy 🏋️‍♂️</p>
