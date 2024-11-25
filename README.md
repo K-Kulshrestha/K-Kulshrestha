@@ -1,3 +1,5 @@
+
+<p align="center"> <img src="https://papers.co/wallpaper/papers.co-sb69-romantic-wine-blur-36-3840x2400-4k-wallpaper.jpg" alt="coding" width="820" height="280" /> </p>
 <div align="center">
   <h1 style="font-size: 2.5em;">👋🏽 Hi, I'm <b>Kshitij Kulshrestha</b></h1>
   <h3 style="font-size: 1.5em;">Full Stack Developer | Computer Science at UT Dallas</h3>
