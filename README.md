@@ -33,10 +33,6 @@
 
 ## 🎨 **Personal Interests**
 
-<div align="center" style="font-size: 1.4em; color: #722F37; font-weight: bold; margin-bottom: 10px;">
-  Hobbies
-</div>
-
 <div align="center" style="font-size: 1.1em;">
   <p>🍳 Experimenting with new recipes and sharing meals 🍳</p>
   <p>🎵 Relaxing through music 🎵</p>
