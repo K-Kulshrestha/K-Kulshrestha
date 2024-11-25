@@ -38,10 +38,10 @@
 </div>
 
 <div align="center" style="font-size: 1.1em;">
-  <p><strong>Cooking:</strong> Experimenting with new recipes and sharing meals 🍳</p>
-  <p><strong>Singing:</strong> Relaxing through music 🎵</p>
-  <p><strong>Working Out:</strong> Staying active and healthy 🏋️‍♂️</p>
-  <p><strong>Anime:</strong> Always up for recommendations 🎥</p>
+  <p>🍳 Experimenting with new recipes and sharing meals 🍳</p>
+  <p>🎵 Relaxing through music 🎵</p>
+  <p>🏋️‍♂️ Staying active and healthy 🏋️‍♂️</p>
+  <p>🎥 Always up for movie/show recommendations 🎥</p>
 </div>
 
 ---
