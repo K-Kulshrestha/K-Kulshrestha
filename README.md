@@ -1,48 +1,74 @@
-# 👋🏽 Hi, I'm **Kshitij Kulshrestha**
-
-### Full Stack Developer | Computer Science Senior at UT Dallas
-
-Welcome to my GitHub! Glad to have you here!
-
-🌐 [My Website](https://k-kulshrestha.vercel.app/)
+<div align="center">
+  <h1 style="color:#722F37;">👋🏽 Hi, I'm <b>Kshitij Kulshrestha</b></h1>
+  <h3>Full Stack Developer | Computer Science Senior at UT Dallas</h3>
+  <a href="https://k-kulshrestha.vercel.app/">
+    <img src="https://img.shields.io/badge/-My%20Website-722F37?style=for-the-badge&logo=vercel&logoColor=white" alt="My Website">
+  </a>
+</div>
 
 ---
 
 ## 💻 **Skills**
 
-### **Frontend:**
-- **React.js**, **Next.js**, **Tailwind CSS**, **JavaScript**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Frontend</b></td>
+      <td>React.js, Next.js, Tailwind CSS, JavaScript</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Backend</b></td>
+      <td>Node.js, Python, Flask</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Databases</b></td>
+      <td>MongoDB, MySQL, AWS S3</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Other Tools</b></td>
+      <td>Git, Notion, Trello, Jira</td>
+    </tr>
+  </table>
+</div>
 
-### **Backend:**
-- **Node.js**, **Python**, **Flask**
-
-### **Databases:**
-- **MongoDB**, **MySQL**, **AWS S3** 
-
-### **Other Tools:**
-- **Git**, **Notion**, **Trello**, **Jira**
+---
 
 ## 🏆 **Leadership Experience**
 
-### **Vice President - User Experience Club**  
-University of Texas at Dallas  
-I am proud to serve as the Vice President of the **User Experience Club** at UT Dallas. It has been an honor to contribute to the student body by organizing events, workshops, and collaborating with peers to promote UX design and development.
+<div align="center">
+  <img src="https://via.placeholder.com/250x150.png?text=User+Experience+Club+Logo" alt="UX Club Logo" style="border-radius: 8px;">
+</div>
+
+### Vice President - User Experience Club  
+**University of Texas at Dallas**  
+I proudly serve as the Vice President of the **User Experience Club**, where I lead initiatives to promote UX design through events, workshops, and peer collaboration.
 
 ---
 
 ## 🎨 **Personal Interests**
 
-- **Cooking**: I love experimenting with new recipes and sharing home-cooked meals with friends.
-- **Singing**: Singing is one of my favorite ways to unwind and relax.
-- **Working Out**: Staying active is important to me, and I enjoy hitting the gym and staying fit.
-- **Anime**: A big anime fan! Always ready for a good anime recommendation.
+<div align="center">
+  <img src="https://via.placeholder.com/200.png?text=Cooking" alt="Cooking" width="100" style="margin: 10px; border-radius: 50px;">
+  <img src="https://via.placeholder.com/200.png?text=Singing" alt="Singing" width="100" style="margin: 10px; border-radius: 50px;">
+  <img src="https://via.placeholder.com/200.png?text=Working+Out" alt="Working Out" width="100" style="margin: 10px; border-radius: 50px;">
+  <img src="https://via.placeholder.com/200.png?text=Anime" alt="Anime" width="100" style="margin: 10px; border-radius: 50px;">
+</div>
+
+### I enjoy:  
+- **Cooking**: Experimenting with new recipes 🍳  
+- **Singing**: Relaxing through music 🎵  
+- **Working Out**: Staying active and healthy 🏋️‍♂️  
+- **Anime**: Always ready for recommendations 🎥  
 
 ---
-
 
 ## 📬 **Contact**
 
-- 📧 [Email me](mailto:kshitijkuls6@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/kshitij-kulshrestha/)
-
----
+<div align="center">
+  <a href="mailto:kshitijkuls6@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-722F37?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/kshitij-kulshrestha/">
+    <img src="https://img.shields.io/badge/-LinkedIn-722F37?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
