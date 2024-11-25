@@ -31,7 +31,7 @@
 </div>
 
 <div align="center" style="font-size: 1.1em;">
-  <h2 style="font-size: 2.2em;"> Personal Interests</h1>
+  <h2 style="font-size: 2.2em;"> Interests</h1>
   <p>🍳 Experimenting with new recipes and sharing meals 🍳</p>
   <p>🎵 Relaxing through music 🎵</p>
   <p>🏋️‍♂️ Staying active and healthy 🏋️‍♂️</p>
