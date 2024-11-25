@@ -2,7 +2,7 @@
   <h1 style="font-size: 2.5em;">👋🏽 Hi, I'm <b>Kshitij Kulshrestha</b></h1>
   <h3 style="font-size: 1.5em;">Full Stack Developer | Computer Science at UT Dallas</h3>
   <a href="https://kshitijkulshrestha.me/">
-    My website
+    my website <3
   </a>
 </div>
 
