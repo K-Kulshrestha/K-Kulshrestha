@@ -1,8 +1,8 @@
 <div align="center">
-  <h1 style="color:#722F37; font-size: 2.5em;">👋🏽 Hi, I'm <b>Kshitij Kulshrestha</b></h1>
+  <h1 style="font-size: 2.5em;">👋🏽 Hi, I'm <b>Kshitij Kulshrestha</b></h1>
   <h3 style="font-size: 1.5em;">Full Stack Developer | Computer Science Senior at UT Dallas</h3>
   <a href="https://kshitijkulshrestha.me/">
-    <img src="https://img.shields.io/badge/-My%20Website-722F37?style=for-the-badge&logo=vercel&logoColor=white" alt="My Website">
+    <img src="https://img.shields.io/badge/-My%20Website?style=for-the-badge&logo=vercel&logoColor=white" alt="My Website">
   </a>
 </div>
 
@@ -36,7 +36,7 @@
 ## 🏆 **Leadership Experience**
 
 <div align="center">
-  <h3 style="color: #722F37; font-size: 1.8em; margin-bottom: 5px;">Vice President - User Experience Club</h3>
+  <h3 style=": #722F37; font-size: 1.8em; margin-bottom: 5px;">Vice President - User Experience Club</h3>
   <p style="font-size: 1.2em;">University of Texas at Dallas</p>
 </div>
 
@@ -49,7 +49,7 @@
 ## 🎨 **Personal Interests**
 
 <div align="center" style="font-size: 1.4em; color: #722F37; font-weight: bold; margin-bottom: 10px;">
-  My Hobbies & Passions
+  Hobbies
 </div>
 
 <div align="center" style="font-size: 1.1em;">
@@ -60,14 +60,3 @@
 </div>
 
 ---
-
-## 📬 **Contact**
-
-<div align="center" style="margin-top: 20px;">
-  <a href="mailto:kshitijkuls6@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-722F37?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/kshitij-kulshrestha/">
-    <img src="https://img.shields.io/badge/-LinkedIn-722F37?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
