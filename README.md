@@ -37,4 +37,6 @@
 
 ---
 
+<div align="center">
 <p>Thank you for checking out my page!</p>
+</div>
