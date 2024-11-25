@@ -2,7 +2,7 @@
   <h1 style="font-size: 2.5em;">👋🏽 Hi, I'm <b>Kshitij Kulshrestha</b></h1>
   <h3 style="font-size: 1.5em;">Full Stack Developer | Computer Science Senior at UT Dallas</h3>
   <a href="https://kshitijkulshrestha.me/">
-    <img src="https://img.shields.io/badge/-My%20Website?style=for-the-badge&logo=vercel&logoColor=white" alt="My Website">
+    My website
   </a>
 </div>
 
@@ -30,21 +30,6 @@
     </tr>
   </table>
 </div>
-
----
-
-## 🏆 **Leadership Experience**
-
-<div align="center">
-  <h3 style=": #722F37; font-size: 1.8em; margin-bottom: 5px;">Vice President - User Experience Club</h3>
-  <p style="font-size: 1.2em;">University of Texas at Dallas</p>
-</div>
-
-<div style="text-align: center; font-size: 1.1em;">
-  I proudly serve as the Vice President of the **User Experience Club**, where I lead initiatives to promote UX design through events, workshops, and peer collaboration.
-</div>
-
----
 
 ## 🎨 **Personal Interests**
 
