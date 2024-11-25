@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<p align="center"> <img src="https://images7.alphacoders.com/133/1330715.png" alt="coding" width="820" height="280" /> </p>
+<p align="center"> <img src="valley-landscape-aesthetic-mountains-gradient-background-3440x1440-4589.jpg" alt="coding" width="820" height="280" /> </p>
 
 <div align="center">
   <h2 style="font-size: 2.2em;"> Skills</h1>
