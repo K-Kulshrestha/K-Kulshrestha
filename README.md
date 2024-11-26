@@ -21,7 +21,7 @@
       <td style="padding: 10px;">MongoDB, MySQL, AWS S3, Firebase</td>
     </tr>
     <tr>
-      <td align="center" style="padding: 10px; font-weight: bold; color: #722F37;">Other Tools</td>
+      <td align="center" style="padding: 10px; font-weight: bold; color: #722F37;">Misc</td>
       <td style="padding: 10px;">Git, Notion, Trello</td>
     </tr>
   </table>
