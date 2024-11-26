@@ -10,11 +10,11 @@
   <table style="width: 80%; margin: auto; border-collapse: collapse; font-size: 1.2em;">
     <tr>
       <td align="center" style="padding: 10px; font-weight: bold; color: #722F37;">Frontend</td>
-      <td style="padding: 10px;">React.js, Next.js, Tailwind CSS, JavaScript, Typescript</td>
+      <td style="padding: 10px;">React.js, Next.js, Tailwind CSS, JavaScript</td>
     </tr>
     <tr>
       <td align="center" style="padding: 10px; font-weight: bold; color: #722F37;">Backend</td>
-      <td style="padding: 10px;">Node.js, Python, Flask, Django</td>
+      <td style="padding: 10px;">Node.js, Python, Flask, Django, Typescript</td>
     </tr>
     <tr>
       <td align="center" style="padding: 10px; font-weight: bold; color: #722F37;">Databases</td>
