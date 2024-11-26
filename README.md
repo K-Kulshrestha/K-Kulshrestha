@@ -10,19 +10,19 @@
   <table style="width: 80%; margin: auto; border-collapse: collapse; font-size: 1.2em;">
     <tr>
       <td align="center" style="padding: 10px; font-weight: bold; color: #722F37;">Frontend</td>
-      <td style="padding: 10px;">React.js, Next.js, Tailwind CSS, JavaScript</td>
+      <td style="padding: 10px;">React.js, Next.js, Tailwind CSS, JavaScript, Typescript</td>
     </tr>
     <tr>
       <td align="center" style="padding: 10px; font-weight: bold; color: #722F37;">Backend</td>
-      <td style="padding: 10px;">Node.js, Python, Flask</td>
+      <td style="padding: 10px;">Node.js, Python, Flask, Django</td>
     </tr>
     <tr>
       <td align="center" style="padding: 10px; font-weight: bold; color: #722F37;">Databases</td>
-      <td style="padding: 10px;">MongoDB, MySQL, AWS S3</td>
+      <td style="padding: 10px;">MongoDB, MySQL, AWS S3, Firebase</td>
     </tr>
     <tr>
       <td align="center" style="padding: 10px; font-weight: bold; color: #722F37;">Other Tools</td>
-      <td style="padding: 10px;">Git, Notion, Trello, Jira</td>
+      <td style="padding: 10px;">Git, Notion, Trello</td>
     </tr>
   </table>
 </div>
