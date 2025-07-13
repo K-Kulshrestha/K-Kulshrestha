@@ -1,6 +1,6 @@
 <div align="center">
 <h1 style="font-size: 2.5em;">👋🏽 Hi, I'm <b>Kshitij Kulshrestha</b></h1>
-  <h3 style="font-size: 1.5em;">Full Stack Developer | Computer Science @ UT Dallas</h3>
+  <h3 style="font-size: 1.5em;">SDET @ Paycom</h3>
 </div>
 
 <p align="center"> <img src="valley-landscape-aesthetic-mountains-gradient-background-3440x1440-4589.jpg" alt="coding" width="820" height="280" /> </p>
